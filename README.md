@@ -153,7 +153,7 @@ local_llm_langchain_chatbot/
 ├── local_raw_chatbot_engine.py   ← RAG + memory logic
 ├── qa_chatbot_app.py      ← Streamlit UI
 │
-├── docs/                  ← put your PDFs here
+├── docs/                  ← put your docs here
 ├── faiss_db/              ← generated vector index (auto-created)
 ├── llm_local_chat_history.db        ← conversation memory (auto-created)
 │
