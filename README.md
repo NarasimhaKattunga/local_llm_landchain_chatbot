@@ -1,4 +1,4 @@
-# Local RAG Chatbot
+# Local RAG Chatbot : document intelligence
 
 Chat with your own documents - PDF's , docs and text files — privately, offline, for free.
 
@@ -10,7 +10,7 @@ No API keys. No cloud. Everything runs on your machine.
 
 You upload PDFs. You ask questions. The chatbot finds the most relevant parts of your documents and answers using a local AI model. It also remembers your conversation across sessions.
 
----
+-----
 
 ## How it works
 
