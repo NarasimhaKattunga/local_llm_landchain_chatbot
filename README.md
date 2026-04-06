@@ -131,7 +131,7 @@ ollama pull nomic-embed-text
 Put your PDFs in the `./docs` folder, then run:
 
 ```bash
-python ingest.py
+python feed_docs.py
 ```
 
 ### 6 — Start the chatbot
