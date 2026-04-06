@@ -8,7 +8,7 @@ No API keys. No cloud. Everything runs on your machine.
 
 ## What it does
 
-You upload PDFs. You ask questions. The chatbot finds the most relevant parts of your documents and answers using a local AI model. It also remembers your conversation across sessions.
+You upload docs. You ask questions. The chatbot finds the most relevant parts of your documents and answers using a local AI model. It also remembers your conversation across sessions.
 
 -----
 
