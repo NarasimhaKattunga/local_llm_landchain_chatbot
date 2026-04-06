@@ -51,6 +51,8 @@ You upload docs. You ask questions. The chatbot finds the most relevant parts of
            ▼
         Your screen
 ```
+<img width="3370" height="1588" alt="3BF25936-85F0-419C-BCB5-316EBA0B3B2C" src="https://github.com/user-attachments/assets/8f49d07c-6a9c-46e4-bb62-a7f35cc17818" />
+
 
 ---
 
